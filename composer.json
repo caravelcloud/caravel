@@ -1,0 +1,14 @@
+{
+    "name": "caravel/caravel",
+    "description": "Caravel is a CMS built on top of Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pierre Arnissolle",
+            "email": "pierre@arnissolle.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
